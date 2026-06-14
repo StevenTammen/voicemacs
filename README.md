@@ -1,2 +1,3 @@
-# voicemacs
-Sane voice command defaults for a large variety of Emacs commands
+## Link to project documentation
+
+https://www.chrya.com/projects/voicemacs
